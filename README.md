@@ -1,3 +1,5 @@
+### About
+
 BeuCyber is a dynamic cybersecurity team founded by university students in 2021. Our team focuses on various projects in different fields of cybersecurity, aiming to provide both theoretical and practical knowledge. Our members have the opportunity to specialize in areas such as malware analysis, web, network security, and penetration testing, allowing them to develop their skills in the world of cybersecurity. BeuCyber continues to nurture the digital defenders of the future, comprised of talented and ambitious university students!
 
 ### Specialities
@@ -11,10 +13,8 @@ BeuCyber is a dynamic cybersecurity team founded by university students in 2021.
 ![](https://img.shields.io/badge/-Full_Stack_Web_Development-000?&logoColor=fff)
 
 ### Social Media
-
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/company/89706939/admin/page-posts/published/)
-[instagram](https://www.instagram.com/beucyber_/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/beu-cyber/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/beucyber_/)
 
 ### Want to reach us?
-
-
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/beu-cyber/)
